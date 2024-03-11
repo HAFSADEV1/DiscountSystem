@@ -21,6 +21,7 @@ Server Side
 To run the server side:
 
 1.Open the "ServerSide" folder open "DiscountSystem" folder in Visual Studio.
+
 2.Run the project.
 
 
@@ -29,6 +30,8 @@ Client Side
 To set up and run the client side:
 
 1.Navigate to the "ClientSide" folder folder.
+
 2.make sure that React installed on your machine
+
 3.run the command npm i
 
