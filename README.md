@@ -15,6 +15,7 @@ Ensure React is installed and run the command npm i.
 
 
 Usage
+
 Server Side
 
 To run the server side:
@@ -24,6 +25,7 @@ To run the server side:
 
 
 Client Side
+
 To set up and run the client side:
 
 1.Navigate to the "ClientSide" folder folder.
